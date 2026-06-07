@@ -1,6 +1,6 @@
 # baiter
 
-![baiter demo](./baiter-demo.gif)
+![baiter demo](./baiter-demo.mp4)
 
 Rent an agent to **ragebait** or **joybait** people through a **Telegram bot**.
 Pick a personality from the card stack, set its tone / goal / intensity, connect
