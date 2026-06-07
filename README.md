@@ -1,6 +1,6 @@
 # baiter
 
-<video src="baiter.mp4" controls width="100%" style="max-width: 720px; border-radius: 12px;"></video>
+https://github.com/Bertantopbac/baiter/releases/download/readme-demo/baiter-demo.mp4
 
 Rent an agent to **ragebait** or **joybait** people through a **Telegram bot**.
 Pick a personality from the card stack, set its tone / goal / intensity, connect
